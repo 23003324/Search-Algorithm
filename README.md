@@ -111,7 +111,7 @@ else:
 
 ## Output:
 Program for linear search method to match the item in a list
-![Alt text](<Screenshot 2023-11-28 124149.png>)
+![Alt text](im.png)
 
 
 Program to find the element in a list using Binary Search(Iterative Method)
